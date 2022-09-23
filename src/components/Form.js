@@ -79,7 +79,7 @@ const Form = () => {
                     <label>Tax Free</label>
                 </div>
             </div>
-            <div className="flex justify-between">    
+            <div className="flex items-center gap-10">    
                 <label>Amount (USD)</label>
                 <input 
                 type="text"
