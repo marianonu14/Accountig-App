@@ -1,6 +1,10 @@
+import Form from "./Form";
+
 const Layout = () => {
     return ( 
-        <div className="bg-red-500 w-full">Layout</div>
+        <section className="bg-gray-200 w-full">
+            <Form />
+        </section>
      );
 }
  
